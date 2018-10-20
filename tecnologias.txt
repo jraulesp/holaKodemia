@@ -4,5 +4,6 @@ spring
 mongo
 js
 html
+Oracle
 Br full stack
 Entender el manejador de veriones
