@@ -1,0 +1,8 @@
+b
+java
+spring
+mongo
+js
+html
+Br full stack
+Entender el manejador de veriones
